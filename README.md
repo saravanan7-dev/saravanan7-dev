@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **psaravanan.dev@gmail.com**
 
+- ⚡ Fun fact **I watch Anime**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saravanan-periyasamy-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanan-periyasamy-dev" height="30" width="40" /></a>
