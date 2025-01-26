@@ -55,4 +55,8 @@
 
 ###
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/saravanan_dev_?theme=dark&font=Abel&ext=heatmap)
+
+###
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanan7-dev&show_icons=true&locale=en&layout=compact" alt="saravanan7-dev" /></p>
