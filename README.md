@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **java, react and spring boot**
 
-- 📫 How to reach me **psaravanan.dev@gmail.com**
+- 📫 How to reach me **saravananp.dev@gmail.com**
 
 - ⚡ Fun fact **I watch Anime**
 
